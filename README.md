@@ -3,8 +3,7 @@
 [![Godot Version](https://img.shields.io/badge/Godot-4.1-brightgreen.svg)](https://godotengine.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Enhanced Ability is a streamlined add-on designed to simplify scene transitions in the Godot engine. Seamlessly navigate between game scenes, ensuring fluid gameplay and enhanced user experience.
-It is part of the "Enhanced" addon suite, a collection of tools designed to extend the power of the Godot Engine. From inventory systems to state charts, the Enhanced suite offers a plethora of tools for game development.
+Welcome to the EnhancedAbility addon for Godot! This tool is designed to streamline the process of creating dynamic abilities and weapons for your game projects. Whether you're working on a fast-paced action game, a tactical RPG, or any genre in between, EnhancedAbility offers a suite of tools to make ability and weapon design both powerful and intuitive.
 
 Without             |  With
 :-------------------------:|:-------------------------:
@@ -12,10 +11,11 @@ Without             |  With
 
 ## Table of Contents
 
-- [✨ Enhanced Ability Addon for Godot 4.1](#-enhanced-Ability-addon-for-godot-41)
+- [✨ Enhanced Ability Addon for Godot 4.1](#-enhanced-ability-addon-for-godot-41)
   - [Table of Contents](#table-of-contents)
   - [Installation ⚙️](#installation-️)
   - [Usage 🕹️](#usage-️)
+  - [Features](#features)
   - [Documentation 📚](#documentation-)
   - [Contribute 🤝](#contribute-)
   - [License 📄](#license-)
@@ -28,16 +28,26 @@ Without             |  With
 
 ## Usage 🕹️
 
-Once the addon is enabled, you will have access to a host of nodes, tools, and utilities that you can use directly in your game scenes. Navigate to the `addons/enhanced_Ability/` directory to explore and use the available scripts.
+Once the addon is enabled, you will have access to a host of nodes, tools, and utilities that you can use directly in your game scenes. Navigate to the `addons/enhanced_ability/` directory to explore and use the available scripts.
+
+## Features
+Drag-and-Drop Ability Builder: Create abilities with ease using our visual builder. Mix and match different components to create unique effects and actions.
+
+Weapon Integration: Design weapons with custom effects, attributes, and graphics. Link them seamlessly with abilities to create dynamic gameplay interactions.
+
+Template Library: Start with our pre-made ability and weapon templates and customize to fit your game's needs. Save time and get inspired!
+
+Modular Components: Every ability is made up of modular components. Want a fireball that explodes on impact and leaves a burning area? Just add the right components!
+
+Flexible Targeting System: From single targets to area effects to global abilities, our system supports a range of targeting options.
+
+Integrated Animation and SFX: Link your animations and sound effects directly within the ability builder to ensure your gameplay feels responsive and immersive.
+
+Performance Optimized: EnhancedAbility is built with performance in mind, ensuring your game runs smoothly even with a multitude of abilities on screen.
 
 ## Documentation 📚
 
 Under `Project > Project Settings > Editor > Resource`, you will find the properties for the name and the icon of the resources you want to display in the editor. You can change it to your liking.
-
-🚀 Efficient scene loading and unloading
-🔄 Smooth transitions with customizable effects
-🔧 User-friendly setup and configuration
-📚 Supports complex scene hierarchies
 
 ## Contribute 🤝
 
